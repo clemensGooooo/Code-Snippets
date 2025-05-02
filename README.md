@@ -1,5 +1,3 @@
-# My template area
+Here are nice snippets for my self and if you like them feel free to use them -;)
 
-Here are nice templates for my self and if you like them feel free to use them -;)
-
-The templates aren't that difficult to build, bit it my happend that a have a mistake there, so please feel free to change the stuff and makeit better by your self!
+The snippets aren't that difficult to build, but I might have made a mistake, so please feel free to make any changes and improve them yourself.
